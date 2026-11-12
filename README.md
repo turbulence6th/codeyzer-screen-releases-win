@@ -1,4 +1,4 @@
-# Codeyzer Screen — Windows releases (experimental)
+# Codeyzer Screen — Windows releases
 
 [**screen.codeyzer.com**](https://screen.codeyzer.com) · Turn your Android tablet into a low-latency extra display for your PC.
 
@@ -14,13 +14,13 @@ This repository hosts the release binaries of the **Windows app** (the source co
 
 ## Install
 
-Run `Codeyzer-Screen-Setup.exe`. The package is not code-signed yet, so Windows SmartScreen shows an "unknown publisher" warning: choose **More info → Run anyway**. The installer asks for administrator approval and sets up its drivers itself.
+Run `Codeyzer-Screen-Setup.exe` and approve the administrator prompt; the installer sets up its drivers itself. Connect the tablet to the PC with a USB cable; the first time, Windows asks for approval once.
 
 **Support:** support@codeyzer.com · **Privacy:** https://screen.codeyzer.com/privacy
 
 ---
 
-# Codeyzer Screen — Windows Sürümleri (deneysel)
+# Codeyzer Screen — Windows Sürümleri
 
 [**screen.codeyzer.com**](https://screen.codeyzer.com) · Android tabletinizi düşük gecikmeyle bilgisayarınızın ek ekranı yapın.
 
@@ -36,6 +36,6 @@ Bu depo **Windows uygulamasının** yayın binary'lerini barındırır (kaynak k
 
 ## Kurulum
 
-`Codeyzer-Screen-Setup.exe`'yi çalıştır. Paket henüz kod imzalı değil, bu yüzden Windows SmartScreen "bilinmeyen yayımcı" uyarısı verir: **Ek bilgi → Yine de çalıştır**. Kurucu yönetici onayı ister ve sürücülerini kendisi kurar.
+`Codeyzer-Screen-Setup.exe`'yi çalıştır ve yönetici onayını ver; kurucu sürücülerini kendisi kurar. Tableti bilgisayara USB ile bağla; ilk seferde Windows bir kez onay ister.
 
 **Destek:** support@codeyzer.com · **Gizlilik:** https://screen.codeyzer.com/privacy
